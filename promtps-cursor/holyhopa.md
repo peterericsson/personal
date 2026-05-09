@@ -44,8 +44,9 @@ Vill jag bygga in implementationsplan i ett markdown dokument
 - AWS: kommer ligga på en instance micro, free
 - Arkitektur: DockerHub Containers, undersök vilken container images som är bäst för detta projekt
 - Databas: PostgreSQL, använd Prisma
-- Frontend: React Fastify
+- Frontend: React Fastify (samma som crid-poc)
 - Backend: Node.js
 - All kod och db tabeller skall vara på engelska såklart
 
 När vi har kommit överens om implemenationsplan, skall den användas som input till att bygga kod senare.
+
