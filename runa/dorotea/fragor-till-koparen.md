@@ -17,7 +17,7 @@ Vi tar fram köpekontrakt och handlingar så att lagfart kan sökas i ditt namn.
 - Nycklar redan överlämnade
 - All lös egendom i/på stugan ingår i köpet
 - Säljare: Stig-Åke Skoglund, tel. 070-510 40 23, stig.ake.skoglund@gmail.com
-- Vittnen: Marie `[efternamn]`, Peter Ericsson
+- Vittnen: Marie Birgander, Peter Ericsson
 
 ---
 
@@ -29,7 +29,7 @@ Vi tar fram köpekontrakt och handlingar så att lagfart kan sökas i ditt namn.
 
 **1.2 Personnummer** *(behövs komplett till lagfart)*
 
-> 420803-XXXX — fyll i de fyra sista: ________
+> 420803-7103 — fyll i de fyra sista: ________
 
 **1.3 Folkbokföringsadress**
 
@@ -84,7 +84,7 @@ Adress *(valfritt):* _______________________________________________
 
 **3.2 Vittne 2 — Peter Ericsson**
 
-Personnummer: 690830-XXXX — fyll i de fyra sista: ________
+Personnummer: 690830-0392 — fyll i de fyra sista: ________
 
 Adress *(valfritt):* _______________________________________________
 

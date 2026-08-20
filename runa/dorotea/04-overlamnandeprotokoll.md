@@ -12,9 +12,9 @@
 |---|---|
 | Säljare | Stig-Åke Skoglund |
 | Köpare | Runa Brar |
-| Fastighet | `[FASTIGHETSBETECKNING]` |
-| Tillträdesdag (nycklar mottagna) | `[TILLTRÄDESDAG]` |
-| Plats för överlämnande | `[ADRESS / ORT]` |
+| Fastighet | Tvärsele 1:11 |
+| Tillträdesdag (nycklar mottagna) | 6 juni 2026 |
+| Plats för överlämnande | Tvärsele 1:11, Dorotea kommun |
 
 ---
 
@@ -24,14 +24,16 @@ Parterna bekräftar att följande har överlämnats till köparen:
 
 | Föremål | Antal | Överlämnat | Anmärkning |
 |---------|------:|:----------:|------------|
-| Huvudnyckel till stuga | `[ANTAL]` | [x] | |
-| Nyckel till förråd / uthus | `[ANTAL ELLER: —]` | [ ] | |
-| Nyckel till postlåda | `[ANTAL ELLER: —]` | [ ] | |
-| Nyckel till grind / bom | `[ANTAL ELLER: —]` | [ ] | |
-| Kod till larm | — | [ ] | `[KOD ELLER: Finns ej]` |
-| Kod till wifi / router | — | [ ] | `[KOD ELLER: Finns ej]` |
-| Fjärrkontroll (port, värme m.m.) | `[ANTAL ELLER: —]` | [ ] | |
-| Annat: `[ANGE ELLER: —]` | | [ ] | |
+| Huvudnyckel till stuga | | [x] | |
+| Nyckel till förråd / uthus | | [ ] | |
+| Nyckel till postlåda | | [ ] | |
+| Nyckel till grind / bom | | [ ] | |
+| Kod till larm | — | [ ] | |
+| Kod till wifi / router | — | [ ] | |
+| Fjärrkontroll (port, värme m.m.) | | [ ] | |
+| Annat | | [ ] | |
+
+*Antal nycklar kan kompletteras vid underskrift.*
 
 ---
 
@@ -39,14 +41,14 @@ Parterna bekräftar att följande har överlämnats till köparen:
 
 | | |
 |---|---|
-| Försäkringsbolag vid tillträdet | `[BOLAG]` |
-| Försäkringsnummer | `[NUMMER]` |
-| Gällde / gäller tom | `[DATUM]` |
+| Försäkringsbolag vid tillträdet | Länsförsäkringar (Lf) |
+| Försäkringsnummer | KC 22 3380-6187-01 |
+| Gällde / gäller tom | 1 oktober 2026 |
 | Åtgärd | [ ] Uppsagd av säljare / [ ] Överlåten / [ ] Köpare tecknar eller har tecknat ny |
 
 Anteckning:
 
-`[ANTECKNING — eller: Ingen]`
+Ingen.
 
 ---
 
@@ -54,12 +56,12 @@ Anteckning:
 
 | Leverantör / tjänst | Kundnummer | Status vid tillträde | Vem övertar |
 |---------------------|------------|----------------------|-------------|
-| El — `[ELBOLAG]` | `[KUNDNR]` | Mätarställning: `[STÄLLNING ELLER: Ej avläst]` | Köpare |
-| Vatten — `[LEVERANTÖR ELLER: Eget]` | `[KUNDNR ELLER: —]` | `[STATUS]` | Köpare |
-| Avlopp / slam — `[LEVERANTÖR ELLER: —]` | `[KUNDNR ELLER: —]` | `[STATUS]` | Köpare |
-| Sophämtning — `[KOMMUN/BOLAG]` | `[KUNDNR ELLER: —]` | `[STATUS]` | Köpare |
-| Bredband / telefoni | `[KUNDNR ELLER: —]` | `[STATUS]` | `[KÖPARE/SÄLJARE/SAKNAS]` |
-| Ved / pellets / gas | — | `[STATUS]` | Köpare |
+| El — E.ON | 25 34 654 | Mätarställning 15 514 (avläst 2026-07-31) | Köpare |
+| Vatten | — | Ej angivet av säljaren | Köpare |
+| Avlopp / slam | — | Ej angivet av säljaren | Köpare |
+| Sophämtning — Dorotea kommun | 7590 | Aktiv | Köpare |
+| Bredband / telefoni | — | — | — |
+| Ved / pellets / gas | — | — | Köpare |
 
 ---
 
@@ -67,9 +69,9 @@ Anteckning:
 
 | Post | Status | Ansvar efter tillträde |
 |------|--------|------------------------|
-| Fastighetsavgift / -skatt | [ ] Ingen obetald / [ ] Obetald: `[BELOPP]` kr | Köpare fr.o.m. tillträde |
-| VA-avgift / kommunala avgifter | [ ] Ingen obetald / [ ] Obetald: `[BELOPP]` kr | Köpare fr.o.m. tillträde |
-| Övriga fakturor | `[ANGE ELLER: Inga]` | `[ANGE ELLER: —]` |
+| Fastighetsavgift / -skatt | [x] Ingen obetald | Köpare fr.o.m. tillträde |
+| VA-avgift / kommunala avgifter | [x] Ingen obetald | Köpare fr.o.m. tillträde |
+| Övriga fakturor | Inga | — |
 
 ---
 
@@ -83,7 +85,7 @@ Anteckning:
 - [ ] Försäkringsbrev
 - [ ] Nyckellista
 - [ ] Inventarieförteckning (undertecknad)
-- [ ] Annat: `[ANGE ELLER: —]`
+- [ ] Annat: —
 
 ---
 
@@ -107,22 +109,22 @@ Parterna har gått igenom fastigheten i samband med tillträdet / nyckelöverlä
 
 Observerade skador eller brister vid tillträdet (som inte tidigare noterats i köpekontraktet):
 
-`[ANGE ELLER: Inga nya anmärkningar]`
+Inga nya anmärkningar.
 
 Mätarställningar / nivåer:
 
 | | |
 |---|---|
-| Elmätare | `[STÄLLNING ELLER: Ej avläst]` |
-| Vattenmätare | `[STÄLLNING ELLER: Finns ej / Ej avläst]` |
-| Bränsle / vedförråd | `[STATUS ELLER: —]` |
-| Annat | `[ANGE ELLER: —]` |
+| Elmätare | 15 514 (2026-07-31) |
+| Vattenmätare | Ej avläst / ej angivet |
+| Bränsle / vedförråd | — |
+| Annat | — |
 
 ---
 
 ## 8. Övriga anteckningar
 
-`[ANGE ELLER: Inga]`
+Inga.
 
 ---
 
@@ -130,8 +132,8 @@ Mätarställningar / nivåer:
 
 Parterna bekräftar härmed att överlämnandet har skett i enlighet med detta protokoll och att köparen från och med tillträdesdagen har övertagit besittningen av fastigheten.
 
-Ort: `[ORT]`  
-Datum: `[DATUM]`
+Ort: Rimbo  
+Datum: 22 augusti 2026
 
 
 **Säljare**

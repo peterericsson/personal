@@ -1,9 +1,9 @@
 # CHECKLISTA — ANSÖKAN OM LAGFART OCH EFTERARBETE
 
 **Köpare:** Runa Brar  
-**Fastighet:** `[FASTIGHETSBETECKNING]`  
-**Köpedatum (underskrift):** `[DATUM]`  
-**Tillträdesdag (nycklar):** `[TILLTRÄDESDAG]`
+**Fastighet:** Tvärsele 1:11  
+**Köpedatum (underskrift):** 22 augusti 2026  
+**Tillträdesdag (nycklar):** 6 juni 2026
 
 Ansökan om lagfart ska normalt göras **inom tre (3) månader** från köpet.  
 Ansökan görs hos **Lantmäteriet**: [lantmateriet.se](https://www.lantmateriet.se)
@@ -36,8 +36,8 @@ Ansökan görs hos **Lantmäteriet**: [lantmateriet.se](https://www.lantmateriet
 | Post | Belopp (kr) |
 |------|------------:|
 | Köpeskilling | 500 000 |
-| Taxeringsvärde (totalt) | `[TAXERINGSVÄRDE]` |
-| Underlag för stämpelskatt (= det högsta av ovan) | `[MAX AV 500 000 OCH TAXERINGSVÄRDE]` |
+| Taxeringsvärde (totalt) | 28 000 (2024) |
+| Underlag för stämpelskatt (= det högsta av ovan) | 500 000 |
 
 ### Formel (privatperson)
 
@@ -53,12 +53,12 @@ Källa: [Lantmäteriet — stämpelskatt och avgifter](https://www.lantmateriet.
 | Avgiftspost | Beräkning | Belopp (kr) | Betald |
 |-------------|-----------|------------:|:------:|
 | Expeditionsavgift | Fast avgift | 825 | [ ] |
-| Underlag före avrundning | max(köpeskilling, taxeringsvärde) | `[UNDERLAG]` | |
-| Underlag efter avrundning nedåt till tusental | | `[AVRUNDA UNDERLAG]` | |
-| Stämpelskatt | 0,015 × avrundat underlag | `[STÄMPELSKATT]` | [ ] |
-| **Summa** | 825 + stämpelskatt | `[SUMMA]` | [ ] |
+| Underlag före avrundning | max(500 000, 28 000) | 500 000 | |
+| Underlag efter avrundning nedåt till tusental | | 500 000 | |
+| Stämpelskatt | 0,015 × 500 000 | 7 500 | [ ] |
+| **Summa** | 825 + 7 500 | **8 325** | [ ] |
 
-Exempel med känd köpeskilling: 500 000 kr och taxeringsvärde ≤ 500 000 → underlag 500 000 → stämpelskatt **7 500 kr** + 825 kr = **8 325 kr** (om taxeringsvärdet är högre används det i stället).
+Beräkning: köpeskilling 500 000 kr är högre än taxeringsvärde 28 000 kr → underlag 500 000 → stämpelskatt **7 500 kr** + 825 kr = **8 325 kr**.
 
 Kontrollera om något undantag från stämpelskatt kan vara tillämpligt (ovanligt vid vanligt köp mellan privatpersoner).
 
@@ -95,9 +95,9 @@ Görs parallellt med eller direkt efter lagfartsansökan:
 
 ### Drift och abonnemang
 
-- [ ] El omregistrerad på köparen (bolag: `[ELBOLAG]`)
+- [ ] El omregistrerad på köparen (bolag: E.ON, kundnr 25 34 654)
 - [ ] Vatten / avlopp / slam omregistrerat eller ansvar övertaget
-- [ ] Sophämtning omregistrerad på köparen
+- [ ] Sophämtning omregistrerad på köparen (Dorotea kommun, kundnr 7590)
 - [ ] Bredband / telefoni hanterat (om tillämpligt)
 
 ### Skatt och deklaration

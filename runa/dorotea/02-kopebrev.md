@@ -6,17 +6,17 @@
 
 ## Parter
 
-**Säljare:** Stig-Åke Skoglund, personnummer `[SÄLJARENS PERSONNUMMER]`
+**Säljare:** Stig-Åke Skoglund, personnummer 541214-6317
 
-**Köpare:** Runa Brar, personnummer 420803-XXXX
+**Köpare:** Runa Brar, personnummer 420803-7103
 
 ---
 
 ## Fastigheten
 
-Säljaren har genom köpekontrakt daterat `[DATUM FÖR KÖPEKONTRAKT]` överlåtit fastigheten
+Säljaren har genom köpekontrakt daterat 22 augusti 2026 överlåtit fastigheten
 
-**`[FASTIGHETSBETECKNING]`**
+**Tvärsele 1:11**
 
 belägen i Dorotea kommun, Västerbottens län, till köparen.
 
@@ -31,7 +31,7 @@ Säljaren bekräftar härmed att hela köpeskillingen om
 
 har erlagts till fullo och mottagits av säljaren före undertecknandet av detta köpebrev.
 
-Säljaren överlåter härmed fastigheten `[FASTIGHETSBETECKNING]` till köparen Runa Brar med full äganderätt.
+Säljaren överlåter härmed fastigheten Tvärsele 1:11 till köparen Runa Brar med full äganderätt.
 
 Köparen är berättigad att söka lagfart på grund av detta köpebrev och det underliggande köpekontraktet.
 
@@ -39,7 +39,7 @@ Köparen är berättigad att söka lagfart på grund av detta köpebrev och det 
 
 ## Tillträde
 
-Tillträde har ägt rum den **`[TILLTRÄDESDAG]`**. Köparen har mottagit nycklar och övertagit besittningen.
+Tillträde har ägt rum den **6 juni 2026**. Köparen har mottagit nycklar och övertagit besittningen.
 
 ---
 
@@ -47,8 +47,8 @@ Tillträde har ägt rum den **`[TILLTRÄDESDAG]`**. Köparen har mottagit nyckla
 
 Detta köpebrev har upprättats i två (2) likalydande exemplar, varav parterna tagit var sitt.
 
-Ort: `[ORT]`  
-Datum: `[DATUM]`
+Ort: Rimbo  
+Datum: 22 augusti 2026
 
 
 **Säljare**
@@ -67,7 +67,7 @@ Underskrift: _________________________________
 
 **Vittne 1**
 
-Namn: Marie `[EFTERNAMN]`  
+Namn: Marie Birgander  
 Personnummer: _________________________________ *(valfritt)*  
 Underskrift: _________________________________
 
@@ -75,5 +75,5 @@ Underskrift: _________________________________
 **Vittne 2**
 
 Namn: Peter Ericsson  
-Personnummer: 690830-XXXX  
+Personnummer: 690830-0392  
 Underskrift: _________________________________

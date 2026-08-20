@@ -1,12 +1,12 @@
 # INVENTARIEFÖRTECKNING
 
-**Bilaga till köpekontrakt avseende** `[FASTIGHETSBETECKNING]`
+**Bilaga till köpekontrakt avseende** Tvärsele 1:11
 
 | | |
 |---|---|
 | Säljare | Stig-Åke Skoglund |
 | Köpare | Runa Brar |
-| Datum | `[DATUM]` |
+| Datum | 22 augusti 2026 |
 
 ---
 
@@ -25,14 +25,16 @@ Detta omfattar bland annat, men inte begränsat till:
 
 Ingen lös egendom undantas. Säljaren behåller ingen lös egendom i eller på fastigheten.
 
+Säljaren har skriftligen bekräftat detta den 15 augusti 2026.
+
 ---
 
 ## Bekräftelse
 
 Parterna bekräftar att denna inventarieförteckning är riktig och utgör bilaga till köpekontraktet. Den lösa egendom som ingår har överlämnats till köparen i samband med tillträdet.
 
-Ort: `[ORT]`  
-Datum: `[DATUM]`
+Ort: Rimbo  
+Datum: 22 augusti 2026
 
 
 **Säljare**

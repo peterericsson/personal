@@ -1,9 +1,8 @@
 # Gemensamma uppgifter — ifyllnadsblankett
 
-Fyll i här först. Samma värden ska sedan speglas i dokumenten 01–06.  
-Tomma fält = väntar på svar (se `00-handlingsplan.md`).
+Fyll i här först. Samma värden ska sedan speglas i dokumenten 01–06.
 
-**Senast uppdaterad:** 2026-08-04 (köpare/säljare/vittnen uppdaterade)
+**Senast uppdaterad:** 2026-08-16 (personnr + underskriftsdatum)
 
 ---
 
@@ -12,7 +11,7 @@ Tomma fält = väntar på svar (se `00-handlingsplan.md`).
 | Fält | Värde |
 |------|-------|
 | Namn | Runa Brar |
-| Personnummer | 420803-XXXX *(komplettera fyra sista siffror före underskrift)* |
+| Personnummer | 420803-7103 |
 | Adress | Gullunge 187, 762 92 Rimbo |
 | Telefon | 070-977 15 77 |
 | E-post | runabrar42@gmail.com |
@@ -22,8 +21,8 @@ Tomma fält = väntar på svar (se `00-handlingsplan.md`).
 | Fält | Värde |
 |------|-------|
 | Namn | Stig-Åke Skoglund |
-| Personnummer | |
-| Adress | |
+| Personnummer | 541214-6317 |
+| Adress | Husa 2, 186 97 Brottby |
 | Telefon | 070-510 40 23 |
 | E-post | stig.ake.skoglund@gmail.com |
 
@@ -31,64 +30,76 @@ Tomma fält = väntar på svar (se `00-handlingsplan.md`).
 
 | Vittne | Namn | Personnummer | Adress |
 |--------|------|--------------|--------|
-| 1 | Marie `[EFTERNAMN]` | *(valfritt)* | |
-| 2 | Peter Ericsson | 690830-XXXX | |
+| 1 | Marie Birgander | *(valfritt)* | |
+| 2 | Peter Ericsson | 690830-0392 | |
 
 ## Fastighet och belopp
 
 | Fält | Värde |
 |------|-------|
-| Fastighetsbeteckning | |
+| Fastighetsbeteckning | Tvärsele 1:11 |
+| Kommun | Dorotea kommun |
 | Köpeskilling (siffror) | 500 000 |
 | Köpeskilling (bokstäver) | femhundratusen |
-| Taxeringsvärde | |
-| Clearingnummer | |
-| Kontonummer | |
-| Betalningssätt | Banköverföring / kontant / annat: |
-| Betaldatum | |
-| Referens vid betalning | |
-| Tillträdesdag (nycklar) | |
-| Ort för underskrift | |
-| Datum för underskrift (köpedatum) | |
+| Taxeringsvärde | 28 000 kr (2024) |
+| Clearingnummer | 3300 (Nordea) |
+| Kontonummer | 5412146317 (personkonto — bekräftat) |
+| Betalningssätt | Banköverföring |
+| Betaldatum | 6 mars 2026 |
+| Referens vid betalning | Köpeskilling Tvärsele 1:11 |
+| Tillträdesdag (nycklar) | 6 juni 2026 |
+| Ort för underskrift | Rimbo |
+| Datum för underskrift (köpedatum) | 22 augusti 2026 |
 
 ## Belastningar och upplysningar
 
 | Fält | Värde |
 |------|-------|
-| Inteckningar / pantbrev | Inga / ange: |
-| Servitut / GA / nyttjanderätt | Inga / ange: |
-| Särskilda upplysningar (fel, skada, tvist) | Inga särskilda upplysningar / ange: |
-| Övriga överenskommelser | Inga / ange: |
+| Inteckningar / pantbrev | Inga |
+| Servitut / GA / nyttjanderätt | Inga / inget säljaren känner till |
+| Särskilda upplysningar (fel, skada, tvist) | Inga särskilda upplysningar |
+| Övriga överenskommelser | Inga |
 
 ## Drift (överlämnande)
 
 | Fält | Värde |
 |------|-------|
-| Försäkringsbolag | |
-| Försäkringsnummer | |
-| Försäkring gäller tom | |
-| Elbolag + kundnummer | |
-| Elmätarställning | |
-| Vatten / avlopp / slam | |
-| Sophämtning | |
-| Obetalda avgifter | Inga / ange: |
+| Försäkringsbolag | Länsförsäkringar (Lf) |
+| Försäkringsnummer | KC 22 3380-6187-01 |
+| Försäkring gäller tom | 1 oktober 2026 |
+| Elbolag + kundnummer | E.ON, kundnr 25 34 654 |
+| Elmätarställning | 15 514 (avläst 2026-07-31) |
+| Vatten / avlopp / slam | Ej angivet av säljaren |
+| Sophämtning | Dorotea kommun, kundnr 7590 |
+| Obetalda avgifter | Inga |
 
 ## Inventarier
 
 | Fält | Värde |
 |------|-------|
-| Vad ingår | **All lös egendom i och på fastigheten** |
+| Vad ingår | **All lös egendom i och på fastigheten** (bekräftat av säljaren) |
 | Vad ingår inte | **Inget undantas** |
+
+## Stämpelskatt (beräkning)
+
+| Post | Belopp |
+|------|-------:|
+| Köpeskilling | 500 000 |
+| Taxeringsvärde 2024 | 28 000 |
+| Underlag (högsta) | 500 000 |
+| Stämpelskatt 1,5 % | 7 500 |
+| Expeditionsavgift | 825 |
+| **Summa lagfart** | **8 325** |
 
 ---
 
 ## PDF-kontroll före export
 
-- [ ] Inga kritiska fält tomma ovan
-- [ ] Köpeskilling samma överallt
-- [ ] Fastighetsbeteckning samma överallt
-- [ ] Tillträdesdag samma i 01, 02, 04
-- [ ] Underskriftsdatum samma i 01–05
-- [ ] Namn och personnummer samma i 01–03
+- [x] Kontonummer bekräftat (Nordea-personkonto)
+- [x] Försäkringsbolag bekräftat (Länsförsäkringar)
+- [x] Köparens personnummer komplett
+- [x] Maries efternamn ifyllt (Birgander)
+- [x] Peters personnummer komplett
+- [x] Underskriftsdatum satt (22 augusti 2026)
+- [x] Ort för underskrift satt (Rimbo)
 - [ ] Signaturrutor synliga efter PDF-export
-- [ ] Köparens personnummer komplett (inte XXXX)

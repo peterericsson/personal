@@ -13,8 +13,8 @@ Detta köpekontrakt är upprättat i enlighet med jordabalken (1970:994) 4 kap.
 | | |
 |---|---|
 | Namn | Stig-Åke Skoglund |
-| Personnummer | `[SÄLJARENS PERSONNUMMER]` |
-| Adress | `[SÄLJARENS ADRESS]` |
+| Personnummer | 541214-6317 |
+| Adress | Husa 2, 186 97 Brottby |
 | Telefon | 070-510 40 23 |
 | E-post | stig.ake.skoglund@gmail.com |
 
@@ -23,7 +23,7 @@ Detta köpekontrakt är upprättat i enlighet med jordabalken (1970:994) 4 kap.
 | | |
 |---|---|
 | Namn | Runa Brar |
-| Personnummer | 420803-XXXX |
+| Personnummer | 420803-7103 |
 | Adress | Gullunge 187, 762 92 Rimbo |
 | Telefon | 070-977 15 77 |
 | E-post | runabrar42@gmail.com |
@@ -34,7 +34,7 @@ Detta köpekontrakt är upprättat i enlighet med jordabalken (1970:994) 4 kap.
 
 Säljaren överlåter härmed till köparen fastigheten
 
-**`[FASTIGHETSBETECKNING]`**
+**Tvärsele 1:11**
 
 belägen i Dorotea kommun, Västerbottens län.
 
@@ -44,7 +44,7 @@ Fastigheten överlåts med de byggnader, anläggningar och övriga tillbehör so
 
 ## 3. Överlåtelseförklaring
 
-Säljaren överlåter härmed fastigheten `[FASTIGHETSBETECKNING]` till köparen Runa Brar.
+Säljaren överlåter härmed fastigheten Tvärsele 1:11 till köparen Runa Brar.
 
 Köparen förvärvar fastigheten med full äganderätt.
 
@@ -59,14 +59,13 @@ Köpeskillingen uppgår till
 
 Hela köpeskillingen har erlagts före undertecknandet av detta kontrakt. Säljaren bekräftar att full betalning mottagits.
 
-Betalning har skett till säljarens konto: `[CLEARINGNUMMER]` `[KONTONUMMER]`  
-(alternativt annat sätt som parterna överenskommit: `[BETALNINGSSÄTT OM ANNAT]`).
+Betalning har skett till säljarens konto: clearing **3300** (Nordea), kontonummer **5412146317** (personkonto, banköverföring).
 
 ---
 
 ## 5. Tillträde
 
-Tillträde har ägt rum den **`[TILLTRÄDESDAG]`**.
+Tillträde har ägt rum den **6 juni 2026**.
 
 Köparen har redan mottagit nycklar och övertagit besittningen av fastigheten.
 
@@ -89,7 +88,7 @@ Fastigheten överlåts i befintligt skick, med de fel och brister som köparen u
 
 Särskilda upplysningar från säljaren:
 
-`[UPPLYSNINGAR — eller: Inga särskilda upplysningar]`
+Inga särskilda upplysningar.
 
 ---
 
@@ -103,7 +102,7 @@ Säljaren garanterar att fastigheten vid tillträdet är fri från:
 
 Befintliga inteckningar / panträtter / servitut / nyttjanderätter:
 
-`[ANGE ELLER: Inga]`
+Inga.
 
 ---
 
@@ -149,7 +148,7 @@ Köpet är bindande vid undertecknande. Inga särskilda villkor gäller utöver 
 
 ## 13. Övriga överenskommelser
 
-`[EVENTUELLA ÖVRIGA ÖVERENSKOMMELSER — eller: Inga]`
+Inga.
 
 ---
 
@@ -159,7 +158,6 @@ Följande bilagor utgör en del av detta köpekontrakt:
 
 1. Inventarieförteckning
 2. Överlämnandeprotokoll
-3. `[EVENTUELLT KARTA, SERVITUTSHANDLINGAR M.M. — eller stryk denna rad]`
 
 ---
 
@@ -171,8 +169,8 @@ Detta köpekontrakt har upprättats i två (2) likalydande exemplar, varav parte
 
 ## Underskrifter
 
-Ort: `[ORT]`  
-Datum: `[DATUM]`
+Ort: Rimbo  
+Datum: 22 augusti 2026
 
 
 **Säljare**
@@ -191,7 +189,7 @@ Underskrift: _________________________________
 
 **Vittne 1**
 
-Namn: Marie `[EFTERNAMN]`  
+Namn: Marie Birgander  
 Personnummer: _________________________________ *(valfritt)*  
 Adress: _________________________________ *(valfritt)*  
 Underskrift: _________________________________
@@ -200,6 +198,6 @@ Underskrift: _________________________________
 **Vittne 2**
 
 Namn: Peter Ericsson  
-Personnummer: 690830-XXXX  
+Personnummer: 690830-0392  
 Adress: _________________________________ *(valfritt)*  
 Underskrift: _________________________________

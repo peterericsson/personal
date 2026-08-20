@@ -2,11 +2,12 @@
 
 Paket med handlingar för köp av fastighet där köparen blir lagfaren ägare.
 
-**Status:** Delvis ifyllt — väntar på blankett-svar — **ej undertecknat**.  
-**Utgångsläge:** Hela köpeskillingen är betald. Nycklar är överlämnade.  
-**Köpare:** Runa Brar, Gullunge 187, 762 92 Rimbo · 070-977 15 77 · runabrar42@gmail.com  
-**Säljare:** Stig-Åke Skoglund · 070-510 40 23 · stig.ake.skoglund@gmail.com  
-**Vittnen:** Marie `[efternamn]`, Peter Ericsson.
+**Status:** Utkast ifyllt — underskrift planerad **22 augusti 2026** — **ej undertecknat**.  
+**Fastighet:** Tvärsele 1:11, Dorotea kommun.  
+**Köpare:** Runa Brar (420803-7103), Gullunge 187, 762 92 Rimbo · 070-977 15 77 · runabrar42@gmail.com  
+**Säljare:** Stig-Åke Skoglund (541214-6317), Husa 2, 186 97 Brottby · 070-510 40 23 · stig.ake.skoglund@gmail.com  
+**Vittnen:** Marie Birgander, Peter Ericsson (690830-0392).  
+**Lagfartskostnad (beräknad):** 8 325 kr (7 500 + 825).
 
 > **Obs.** Dessa dokument är mallar, inte juridisk rådgivning. Låt gärna en jurist granska innan undertecknande. Ersätt alla platshållare (`[…]`) med faktiska uppgifter innan PDF och underskrift.
 
