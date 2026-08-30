@@ -2,7 +2,7 @@
 
 Fyll i här först. Samma värden ska sedan speglas i dokumenten 01–06.
 
-**Senast uppdaterad:** 2026-08-16 (personnr + underskriftsdatum)
+**Senast uppdaterad:** 2026-08-30 (undertecknat; försäkring rättad till If; original scannade)
 
 ---
 
@@ -64,7 +64,7 @@ Fyll i här först. Samma värden ska sedan speglas i dokumenten 01–06.
 
 | Fält | Värde |
 |------|-------|
-| Försäkringsbolag | Länsförsäkringar (Lf) |
+| Försäkringsbolag | If *(rättat vid underskrift; säljaren hade angett Lf)* |
 | Försäkringsnummer | KC 22 3380-6187-01 |
 | Försäkring gäller tom | 1 oktober 2026 |
 | Elbolag + kundnummer | E.ON, kundnr 25 34 654 |
@@ -96,7 +96,7 @@ Fyll i här först. Samma värden ska sedan speglas i dokumenten 01–06.
 ## PDF-kontroll före export
 
 - [x] Kontonummer bekräftat (Nordea-personkonto)
-- [x] Försäkringsbolag bekräftat (Länsförsäkringar)
+- [x] Försäkringsbolag rättat till If vid underskrift
 - [x] Köparens personnummer komplett
 - [x] Maries efternamn ifyllt (Birgander)
 - [x] Peters personnummer komplett

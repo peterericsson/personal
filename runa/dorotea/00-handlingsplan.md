@@ -1,8 +1,10 @@
 # Handlingsplan — färdigställa köp och lagfart (Dorotea)
 
-**Status:** Nästan PDF-klart — underskrift planerad **22 augusti 2026**  
-**Utgångsläge:** Hela köpeskillingen är redan betald. Nycklar är redan överlämnade.  
-Köpekontrakt, köpebrev, kvitto och överlämnandeprotokoll skrivs under i samma omgång.
+**Status:** Undertecknat **22 augusti 2026**. Original scannade.  
+**Nästa steg:** Sök lagfart när Runa är hemma igen (senast ca **22 november 2026**).  
+**Utgångsläge:** Hela köpeskillingen är betald. Nycklar överlämnade. Handlingarna är undertecknade.
+
+Vid underskrift rättades försäkringsbolag manuellt till **If** (mallarna hade Länsförsäkringar efter säljarens svar).
 
 ---
 
@@ -13,10 +15,10 @@ Köpekontrakt, köpebrev, kvitto och överlämnandeprotokoll skrivs under i samm
 | 0 | Förbered köparens uppgifter | [x] klart |
 | 1 | Frågeblankett till säljaren | [x] svar mottagna 2026-08-16 |
 | 2 | Fyll i mallarna 01–06 i repot | [x] |
-| 3 | PDF + granskning med säljaren | [ ] |
-| 4 | Underskrift (samma möte) | [ ] planerad 22 aug 2026 |
-| 5 | Lagfart hos Lantmäteriet | [ ] senast ca 22 nov 2026 |
-| 6 | Efterarbete (försäkring, el, deklaration) | [ ] |
+| 3 | PDF + granskning med säljaren | [x] |
+| 4 | Underskrift (samma möte) | [x] 22 aug 2026 |
+| 5 | Lagfart hos Lantmäteriet | [ ] när Runa är hemma · senast ca 22 nov 2026 |
+| 6 | Efterarbete (försäkring, el, deklaration) | [ ] If gäller tom 1 okt 2026 |
 
 ---
 
@@ -29,11 +31,11 @@ Köpekontrakt, köpebrev, kvitto och överlämnandeprotokoll skrivs under i samm
 | Köparens folkbokföringsadress | Gullunge 187, 762 92 Rimbo |
 | Köparens telefon | 070-977 15 77 |
 | Köparens e-post | runabrar42@gmail.com |
-| Önskat köpedatum (underskriftsdag) | 22 augusti 2026 |
+| Köpedatum (underskriftsdag) | 22 augusti 2026 |
 | Tillträdesdag (datum nycklar mottogs) | 6 juni 2026 *(enligt säljaren)* |
-| Köpeskilling (kr) — bekräfta | 500 000 |
-| Två vittnen vid underskrift? | Marie Birgander, Peter Ericsson (690830-0392) |
-| Arkivmapp skapad (PDF + kontoutdrag) | [ ] |
+| Köpeskilling (kr) | 500 000 |
+| Vittnen vid underskrift | Marie Birgander, Peter Ericsson (690830-0392) |
+| Arkivmapp (scannade original) | [x] original scannade |
 
 **Köparblankett:** [`fragor-till-koparen.md`](fragor-till-koparen.md)
 
@@ -61,7 +63,7 @@ Köpekontrakt, köpebrev, kvitto och överlämnandeprotokoll skrivs under i samm
 | 10 | Inteckning/lån/pantbrev | Nej | 01 |
 | 11 | Servitut / GA / nyttjanderätt | Nej / inget han känner till | 01 |
 | 12 | Fel / skada / tvist | Nej | 01 |
-| 13 | Försäkring (bolag, nr, tom) | Länsförsäkringar (Lf) / KC 22 3380-6187-01 / 1 okt 2026 | 04 |
+| 13 | Försäkring (bolag, nr, tom) | **If** (rättat vid underskrift; säljaren hade angett Lf) / KC 22 3380-6187-01 / 1 okt 2026 | 04 |
 | 14 | El (bolag, kundnr, mätare) | E.ON 25 34 654 / 15 514 (2026-07-31) | 04 |
 | 15 | Vatten / avlopp / slam | Ej angivet | 04 |
 | 16 | Sophämtning | Dorotea kommun, kundnr 7590 | 04 |
@@ -77,7 +79,7 @@ Blankett undertecknad: Brottby 15 augusti 2026, Stig-Åke Skoglund.
 ## Att dubbelkolla
 
 1. ~~Kontonummer~~ — bekräftat: Nordea-personkonto.
-2. ~~Försäkringsbolag~~ — bekräftat: Länsförsäkringar (Lf).
+2. ~~Försäkringsbolag~~ — **If** (rättat manuellt vid underskrift 22 aug; säljarens blankett hade Lf).
 3. ~~Ort~~ — Rimbo.
 4. ~~Maries efternamn~~ — Birgander.
 
@@ -91,35 +93,45 @@ Blankett undertecknad: Brottby 15 augusti 2026, Stig-Åke Skoglund.
 4. [x] `04-overlamnandeprotokoll.md`
 5. [x] `05-inventarieförteckning.md`
 6. [x] `06-checklista-lagfart.md`
-7. [~] Kontroll: kvarstår köparens personnr, vittnen, ort/datum för underskrift
+7. [x] Underskrift genomförd 22 augusti 2026
 
 ---
 
 ## Fas 3 — PDF och granskning
 
-1. [ ] Exportera till PDF: köpekontrakt, köpebrev, kvitto, överlämnandeprotokoll, inventarieförteckning
-2. [ ] Skriv ut två exemplar av köpekontrakt + köpebrev
-3. [ ] Skicka utkast till säljaren för genomläsning
-4. [ ] Boka underskriftstid (Marie + Peter); ta med ID
+1. [x] Exportera till PDF: köpekontrakt, köpebrev, kvitto, överlämnandeprotokoll, inventarieförteckning
+2. [x] Skriv ut två exemplar av köpekontrakt + köpebrev
+3. [x] Granskning med säljaren
+4. [x] Underskrift genomförd (Marie + Peter)
 
 ---
 
 ## Fas 4 — Underskrift (samma möte)
 
-1. [ ] Gå igenom inventarielistan — justera vid behov
-2. [ ] Underteckna köpekontrakt (säljare, köpare, vittnen)
-3. [ ] Underteckna köpebrev
-4. [ ] Underteckna kvitto
-5. [ ] Underteckna överlämnandeprotokoll + inventarieförteckning
-6. [ ] Byt exemplar mellan parterna
-7. [ ] Fotografera/scanna allt till arkivmappen samma dag
+Genomförd **22 augusti 2026** i Rimbo.
+
+1. [x] Gå igenom inventarielistan
+2. [x] Underteckna köpekontrakt (säljare, köpare, vittnen)
+3. [x] Underteckna köpebrev
+4. [x] Underteckna kvitto
+5. [x] Underteckna överlämnandeprotokoll + inventarieförteckning
+6. [x] Byt exemplar mellan parterna
+7. [x] Scanna alla original till arkivmappen
+8. [x] Försäkringsbolag rättat till **If** på handlingarna
 
 ---
 
 ## Fas 5 — Lagfart (inom 3 månader)
 
+**Görs när Runa är hemma igen.** Ansökan ska stå i hennes namn.  
+Tidsfrist: inom tre månader från köpet → senast ca **22 november 2026**.
+
+E-tjänst: [Lantmäteriet — ansök om inskrivningsåtgärd](https://dafi.lantmateriet.se/sv/login) (BankID).  
+Bifoga scannade original (JPG/PNG/PDF). Skicka inget per post om e-tjänsten används.  
+Om någon annan än Runa skickar in: **fullmakt** krävs.
+
 1. [ ] Ansök via Lantmäteriet i köparens namn
-2. [ ] Bifoga fångeshandling (köpebrev + köpekontrakt)
+2. [ ] Bifoga fångeshandling (köpebrev + köpekontrakt) — scannade original
 3. [ ] Betala expeditionsavgift 825 kr + stämpelskatt 7 500 kr = **8 325 kr**
 4. [ ] Spara diarienummer; besvara kompletteringar
 5. [ ] Arkivera lagfartsbeslut / lagfartsbevis
@@ -130,7 +142,7 @@ Se detaljer i `06-checklista-lagfart.md`.
 
 ## Fas 6 — Efterarbete
 
-1. [ ] Försäkring i köparens namn
+1. [ ] Försäkring i köparens namn (**If**, gällde/gäller tom 1 oktober 2026)
 2. [ ] El (E.ON), sophämtning (Dorotea kommun 7590) omregistrerade
 3. [ ] Säljaren påmind om deklaration av försäljningen
 4. [ ] Hela checklistan i `06-checklista-lagfart.md` avbockad

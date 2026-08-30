@@ -14,11 +14,11 @@ Ansökan görs hos **Lantmäteriet**: [lantmateriet.se](https://www.lantmateriet
 
 ## A. Inför ansökan
 
-- [ ] Köpekontrakt undertecknat av säljare och köpare (original) — två exemplar utbytta
-- [ ] Köpebrev undertecknat (original) — två exemplar utbytta
-- [ ] Kvitto på erlagd köpeskilling undertecknat
-- [ ] Överlämnandeprotokoll undertecknat
-- [ ] Inventarieförteckning undertecknad
+- [x] Köpekontrakt undertecknat av säljare och köpare (original) — två exemplar utbytta
+- [x] Köpebrev undertecknat (original) — två exemplar utbytta
+- [x] Kvitto på erlagd köpeskilling undertecknat
+- [x] Överlämnandeprotokoll undertecknat
+- [x] Inventarieförteckning undertecknad
 - [ ] Fastighetsbeteckning kontrollerad (exakt enligt register / säljarens uppgifter)
 - [ ] Köparens personnummer och adress korrekta
 - [ ] Säljarens personnummer korrekt
@@ -107,7 +107,7 @@ Görs parallellt med eller direkt efter lagfartsansökan:
 
 ### Arkiv
 
-- [ ] Alla undertecknade handlingar scannade/fotograferade
+- [x] Alla undertecknade handlingar scannade/fotograferade
 - [ ] Kontoutdrag för köpeskilling sparat
 - [ ] Kvitton på stämpelskatt och expeditionsavgift sparade
 

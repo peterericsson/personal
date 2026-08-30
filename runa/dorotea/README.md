@@ -2,7 +2,7 @@
 
 Paket med handlingar för köp av fastighet där köparen blir lagfaren ägare.
 
-**Status:** Utkast ifyllt — underskrift planerad **22 augusti 2026** — **ej undertecknat**.  
+**Status:** Undertecknat **22 augusti 2026**. Original scannade. Nästa: lagfart när Runa är hemma (senast ca 22 nov 2026).  
 **Fastighet:** Tvärsele 1:11, Dorotea kommun.  
 **Köpare:** Runa Brar (420803-7103), Gullunge 187, 762 92 Rimbo · 070-977 15 77 · runabrar42@gmail.com  
 **Säljare:** Stig-Åke Skoglund (541214-6317), Husa 2, 186 97 Brottby · 070-510 40 23 · stig.ake.skoglund@gmail.com  

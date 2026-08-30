@@ -41,7 +41,7 @@ Parterna bekräftar att följande har överlämnats till köparen:
 
 | | |
 |---|---|
-| Försäkringsbolag vid tillträdet | Länsförsäkringar (Lf) |
+| Försäkringsbolag vid tillträdet | If |
 | Försäkringsnummer | KC 22 3380-6187-01 |
 | Gällde / gäller tom | 1 oktober 2026 |
 | Åtgärd | [ ] Uppsagd av säljare / [ ] Överlåten / [ ] Köpare tecknar eller har tecknat ny |
